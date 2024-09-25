@@ -92,6 +92,7 @@ Policy:
 ```
 #### Optimal Value Function
 ```
+Name:Nathin R      Reg.Number:212222230090
 State-value function:
 |           | 01 0.66758 | 02 0.89011 | 03 0.96429 | 04 0.98901 | 05 0.99725 |           |
 ```
